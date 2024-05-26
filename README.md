@@ -17,3 +17,17 @@ This project compares the execution times of several sorting algorithms: Inserti
 - Implementation details and explanations for each sorting algorithm.
 
 <img src="output_unsorted.jpg"/>
+
+<img src="output_sorted.jpg"/>
+
+<img src="output_unsorted_short.jpg"/>
+
+<img src="output_unsorted_long.jpg"/>
+
+<img src="output_hybrid_vs_insertion.jpg"/>
+
+<img src="output_hybrid_vs_quick.jpg"/>
+
+<img src="output_hybrid_vs_radix_counting.jpg"/>
+
+<img src="output_hybrid_vs_heap.jpg"/>
