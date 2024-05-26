@@ -15,5 +15,3 @@ This project compares the execution times of several sorting algorithms: Inserti
 - Comparison charts and statistics to analyze performance.
 - Customizable input data size and range for comprehensive testing.
 - Implementation details and explanations for each sorting algorithm.
-
-- !(output_unsorted.jpg)
