@@ -16,4 +16,4 @@ This project compares the execution times of several sorting algorithms: Inserti
 - Customizable input data size and range for comprehensive testing.
 - Implementation details and explanations for each sorting algorithm.
 
-[!(output_unsorted.jpg)](output_unsorted.jpg)
+<img src="output_unsorted.jpg"/>
